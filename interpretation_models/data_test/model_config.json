@@ -1,0 +1,22 @@
+{
+	"tag_modelise":"tag_40310",
+	"site":"MZ-LM2",
+	"experiment":"model_MZ",
+	"mangling":"Tech.MZ.LM2.MO.PC",
+	"tag_name": "Conso_Gaz_Charge_Prech",
+	"ref_periode_debut": "19/08/2020  00:00:00",
+	"ref_periode_fin": "14/04/2023  11:00:00",
+	"tag_unit":"GJ",
+	"freq":"ProductUnit",
+	"description":"Consommation Gaz Préchauffe",
+	"facteurs": {	
+		"tag_39504": {"used":true,"type": "num","unit":"mm*100", "nom":"EPAI_VISEE", "seuil-min":0.0,"description":"Epaisseur bobine"},
+		"tag_39505": {"used":true,"type": "num","unit":"mm", "nom":"LARG_VISEE", "seuil-min":0.0,"description":"Largeur bobine"},
+		"tag_39506": {"used":true,"type": "num","unit":"m", "nom":"LONG_MES", "seuil-min":0.0,"description":"Longueur bobine"},
+		"tag_39502": {"used":true,"type": "cat","unit":"", "nom":"M1_ACIER","description":"Type d'acier"},
+		"tag_39503": {"used":true,"type": "cat","unit":"", "nom":"OF_RVTTYPE","description":"Type de revêtement"},
+		"tag_39511": {"used":true,"type": "num","unit":"°C", "nom":"T_B_PR_MO","description":"T° bande sortie préchauffe"},
+		"tag_40307": {"used":true,"type": "num","unit":"°C", "nom":"T_ext","description":"T° extérieure"}
+
+	}
+}

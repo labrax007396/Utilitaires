@@ -1,0 +1,10 @@
+{
+    "dir_models"  : "C:/Users/33623/Dropbox (Ultiwatt)/D - ULTIVISION INDUSTRIES/1-MUNKSJO ARCHES/2- Models/MLFLOW/",
+    "client"      : "Arches",
+    "site"        : "Arches",
+    "depart"      : "AR8",
+    "case_study"  : "Puissance AR8",
+    "mangling_interp" : "",
+    "run_name"    : "big-seal-555",
+    "tmp_file"    : "../../run_models/mlflow_tmp/"
+}
