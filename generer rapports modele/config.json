@@ -1,0 +1,12 @@
+{
+
+    "dir_models"  : "C:/Users/33623/Dropbox (Ultiwatt)/D - ULTIVISION INDUSTRIES/4-ARCELORMITTAL/2- DEPLOIEMENT AMF/2-Projet LOT 2/10-Models/MLFLOW/",
+    "client"      : "AMF",
+    "site"        : "MZ",
+    "depart"      : "LM2",
+    "case_study"  : "Conso_Spec_Gaz",
+    "mangling_interp" : "",
+    "run_name"    : "regression lineaire sans cadence",
+    "tmp_file"    : "../../run_models/mlflow_tmp/"
+
+}
